@@ -9,4 +9,4 @@ Os arquivos em Python desse repositório são:
 
 Todos os arquivos analisam os dados da mesa base, também fornecida neste repositório: bitcoin15-17.xlsx
 
-A  base em questão foi extraída de (https://www.blockchain.com/explorer/charts)https://www.blockchain.com/explorer/charts
+A  base em questão foi extraída de https://www.blockchain.com/explorer/charts
